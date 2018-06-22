@@ -1,0 +1,20 @@
+.page {
+  .block {
+    background-color: @background-color;
+    opacity: 0;
+    transition: all 1.5s ease-out;
+    &.banner-block,
+    &.banner-block-mobile {
+      background-color: transparent;
+      background-size: cover;
+      background-position: 50% 50%;
+      z-index: 0;
+      width: 100%;
+      max-width: 100%;
+    };
+    &.fade-in {
+      opacity: 1;
+      transition: all 1.5s ease-out;
+    }
+  }
+}

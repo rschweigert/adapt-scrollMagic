@@ -1,0 +1,23 @@
+{
+  "name": "adapt-scrollMagic",
+  "homepage": "https://github.com/adaptlearning/adapt_framework",
+  "authors": [
+    "R. Schweigert <schweigert@infotracks.de>"
+  ],
+  "description": "A plugin that includes ScrollMagic",
+  "main": "js/adapt-scrollMagic.js",
+  "keywords": [
+    "adapt-plugin",
+    "adapt-extension"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "src/plugins",
+    "test",
+    "tests"
+  ]
+}

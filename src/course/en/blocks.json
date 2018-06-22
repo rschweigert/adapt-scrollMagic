@@ -1,0 +1,97 @@
+[
+    {
+        "_id": "b-05",
+        "_parentId": "a-05",
+        "_type": "block",
+        "_classes": "",
+        "title": "b-05",
+        "displayTitle": "",
+        "body": "",
+        "_trackingId": 0,
+        "_blockBackground": {
+            "src": "course/en/images/bg-01.jpg",
+            "bannerHeight": 300,
+            "mobileBannerHeight": 150,
+            "backgroundSize": "cover",
+            "backgroundPosition": "center center",
+            "backgroundRepeat": "repeat",
+            "backgroundColor": "transparent"
+        }
+    },
+    {
+        "_id": "b-10",
+        "_parentId": "a-05",
+        "_type": "block",
+        "_classes": "",
+        "title": "b-10",
+        "displayTitle": "",
+        "body": "",
+        "_trackingId": 20,
+        "_blockBackground": {
+            "src": "course/en/images/bg-02.jpg",
+            "bannerHeight": 300,
+            "mobileBannerHeight": 150,
+            "backgroundSize": "cover",
+            "backgroundPosition": "center center",
+            "backgroundRepeat": "repeat",
+            "backgroundColor": "transparent"
+        }
+    },
+    {
+        "_id": "b-15",
+        "_parentId": "a-05",
+        "_type": "block",
+        "_classes": "",
+        "title": "b-15",
+        "displayTitle": "",
+        "body": "",
+        "_trackingId": 21,
+        "_blockBackground": {
+            "src": "course/en/images/bg-03.jpg",
+            "bannerHeight": 300,
+            "mobileBannerHeight": 150,
+            "backgroundSize": "cover",
+            "backgroundPosition": "center center",
+            "backgroundRepeat": "repeat",
+            "backgroundColor": "transparent"
+        }
+    },
+    {
+        "_id": "b-20",
+        "_parentId": "a-05",
+        "_type": "block",
+        "_classes": "",
+        "title": "b-20",
+        "displayTitle": "",
+        "body": "",
+        "_trackingId": 22,
+        "_blockBackground": {
+            "src": "course/en/images/bg-04.jpg",
+            "bannerHeight": 300,
+            "mobileBannerHeight": 150,
+            "backgroundSize": "cover",
+            "backgroundPosition": "center center",
+            "backgroundRepeat": "repeat",
+            "backgroundColor": "transparent"
+        }
+    },
+    {
+        "_id": "b-25",
+        "_parentId": "a-05",
+        "_type": "block",
+        "_classes": "",
+        "title": "b-25",
+        "displayTitle": "",
+        "body": "",
+        "_trackingId": 23,
+        "_blockBackground": {
+            "src": "course/en/images/bg-05.jpg",
+            "bannerHeight": 300,
+            "mobileBannerHeight": 150,
+            "backgroundSize": "cover",
+            "backgroundPosition": "center center",
+            "backgroundRepeat": "repeat",
+            "backgroundColor": "transparent"
+        }
+    }
+]
